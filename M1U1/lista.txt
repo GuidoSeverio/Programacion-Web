@@ -2,3 +2,5 @@ motorcheck
 auto
 led
 caro
+Sueldo
+Aumento
